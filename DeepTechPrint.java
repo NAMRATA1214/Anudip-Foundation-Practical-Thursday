@@ -27,9 +27,9 @@ class DeepTechPrint
 								System.out.println("Tech");		
 							}
 						else
-						{
-						System.out.println(+i);
-						}
+							{
+								System.out.println(+i);
+							}
 						
 					}
 			}
